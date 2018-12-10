@@ -1,5 +1,9 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
 
+
+[![Build Status](https://businessvision.visualstudio.com/BVMaster/_apis/build/status/kallefredricson.testingandforking)](https://businessvision.visualstudio.com/BVMaster/_build/latest?definitionId=6)
+
+
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
